@@ -1,0 +1,10 @@
+basePath: /
+info:
+  contact:
+    email: fiber@swagger.io
+    name: API Support
+  description: This is a sample swagger for Fiber
+  termsOfService: http://swagger.io/terms/
+  version: "1.0"
+paths: {}
+swagger: "2.0"
